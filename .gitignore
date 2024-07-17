@@ -1,1 +1,4 @@
+.env
+.ipynb_checkpoints
+__pycache__
 rohit-81-updated_permissions.json

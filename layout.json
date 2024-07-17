@@ -1,0 +1,60 @@
+{
+  "appearance": {
+    "colortype": {
+      "description": "Estimated probability of complete coverage by various land cover types",
+      "type": "ordinal",
+      "values": [
+        {
+          "id": 0,
+          "label": "water",
+          "description": "Estimated probability of complete coverage by water"
+        },
+        {
+          "id": 1,
+          "label": "trees",
+          "description": "Estimated probability of complete coverage by trees"
+        },
+        {
+          "id": 2,
+          "label": "grass",
+          "description": "Estimated probability of complete coverage by grass"
+        },
+        {
+          "id": 3,
+          "label": "flooded_vegetation",
+          "description": "Estimated probability of complete coverage by flooded vegetation"
+        },
+        {
+          "id": 4,
+          "label": "crops",
+          "description": "Estimated probability of complete coverage by crops"
+        },
+        {
+          "id": 5,
+          "label": "shrub_and_scrub",
+          "description": "Estimated probability of complete coverage by shrub and scrub"
+        },
+        {
+          "id": 6,
+          "label": "built",
+          "description": "Estimated probability of complete coverage by built"
+        },
+        {
+          "id": 7,
+          "label": "bare",
+          "description": "Estimated probability of complete coverage by bare"
+        },
+        {
+          "id": 8,
+          "label": "snow_and_ice",
+          "description": "Estimated probability of complete coverage by snow and ice"
+        },
+        {
+          "id": 9,
+          "label": "label",
+          "description": "Index of the band with the highest estimated probability"
+        }
+      ]
+    }
+  }
+}
